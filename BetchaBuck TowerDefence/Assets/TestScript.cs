@@ -7,7 +7,7 @@ public class TestScript : MonoBehaviour {
 	void Start () {
 	
 
-        // Test Comment
+        // Test Comment 2
 	}
 	
 	// Update is called once per frame
