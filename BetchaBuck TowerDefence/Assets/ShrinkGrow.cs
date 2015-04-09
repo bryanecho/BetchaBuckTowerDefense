@@ -18,10 +18,10 @@ public class ShrinkGrow : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        float thisX=0.0f;
-        float thisY=0.0f;
+      //  float thisX=0.0f;
+      //  float thisY=0.0f;
 
-        thisX=this.transform.localScale.x;
+     //   thisX=this.transform.localScale.x;
 
         //change shrink/expand direction if beyond limit set by MaxExpansion'
         if (CurrentExpansion>MaxExpansion || CurrentExpansion<-MaxExpansion)

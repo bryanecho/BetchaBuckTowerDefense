@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\MoveToWaypoint.cs" />
      <Compile Include="Assets\ShrinkGrow.cs" />
      <Compile Include="Assets\TurretRotate.cs" />
  <Reference Include="UnityEngine.UI">
